@@ -1,0 +1,6 @@
+D:\practicas\dotNet\c#\Manage program flow\Thread\Thread\bin\Debug\Thread.exe.config
+D:\practicas\dotNet\c#\Manage program flow\Thread\Thread\bin\Debug\Thread.exe
+D:\practicas\dotNet\c#\Manage program flow\Thread\Thread\bin\Debug\Thread.pdb
+D:\practicas\dotNet\c#\Manage program flow\Thread\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+D:\practicas\dotNet\c#\Manage program flow\Thread\Thread\obj\Debug\Thread.exe
+D:\practicas\dotNet\c#\Manage program flow\Thread\Thread\obj\Debug\Thread.pdb
